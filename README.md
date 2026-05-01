@@ -22,6 +22,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimiDev-be&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TimiDev-be&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TimiDev-be&theme=tokyonight" alt="Most Used Languages" />
+</p> -->
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -83,19 +96,6 @@
 > A full-stack geospatial application leveraging **MapLibre GL JS** and **MapTiler** for interactive mapping, with a **.NET** backend and **PostgreSQL** for spatial data storage.
 
 *More details to be revealed on public release — stay tuned!*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimiDev-be&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TimiDev-be&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TimiDev-be&theme=tokyonight" alt="Most Used Languages" />
-</p> -->
 
 ---
 
