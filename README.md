@@ -5,12 +5,6 @@
   Passionate about maps, geospatial data, and building things that actually work.
 </p>
 
-<p align="center">
-  <a href="https://github.com/TymoteuszRadziszewski">
-    <img src="https://komarev.com/ghpvc/?username=TymoteuszRadziszewski&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
