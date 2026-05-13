@@ -62,7 +62,7 @@
 
 ---
 
-## 📦 Libraries & Packages
+<!--## 📦 Libraries & Packages
 
 ### Frontend
 | Library |
@@ -83,6 +83,7 @@
 | `FluentEmail` | 
 
 ---
+-->
 
 ## 🗺️ Featured Project
 
